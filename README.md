@@ -1,6 +1,6 @@
 # Python Project – Sàng lọc hồ sơ tuyển dụng: so sánh KNN, Naive Bayes, SVM và khai phá luật kết hợp (Python)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<username>/<repo>/blob/main/Python_Portfolio/resume_screening_data_mining.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<username>/<repo>/blob/main/Python_Portfolio/Python_Portfolio/resume_screening_data_mining.ipynb)
 
 > Dự án nhóm 5 người – môn Khai phá dữ liệu, Trường Đại học Ngân hàng TP.HCM.
 > **Phần tôi phụ trách:** EDA (phân bố Role/Decision, WordCloud, phân tích độ dài CV)
