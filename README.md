@@ -1,7 +1,5 @@
 # Python Project – Sàng lọc hồ sơ tuyển dụng: so sánh KNN, Naive Bayes, SVM và khai phá luật kết hợp (Python)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<username>/<repo>/blob/main/Python_Portfolio/Python_Portfolio/resume_screening_data_mining.ipynb)
-
 > Dự án nhóm 5 người – môn Khai phá dữ liệu, Trường Đại học Ngân hàng TP.HCM.
 > **Phần tôi phụ trách:** EDA (phân bố Role/Decision, WordCloud, phân tích độ dài CV)
 
@@ -38,7 +36,7 @@ Chia train/test 80/20 có phân tầng (random_state = 42), test = 2.035 CV:
 ## EDA (phần của tôi)
 - Tỷ lệ Select/Reject gần cân bằng (Reject 50,3%).
 - Độ dài CV (ký tự, sau khi làm sạch) cao nhất ở AI Researcher/Engineer (median 1.915,5) và thấp nhất ở Game Developer (646, biến động rất lớn).
-- 
+
 ## Hạn chế
 - Dữ liệu có vẻ được sinh tự động (CV mở đầu bằng cùng một câu mẫu), nên accuracy gần 100% khó lặp lại trên CV thật.
 - Chỉ một lần chia train/test; k của KNN được chọn theo accuracy trên tập test nên có thể lạc quan.
